@@ -301,7 +301,7 @@ def draw_row_of_circles(n, starting_point, color, window):
 
     radius = 20
     diameter = 2 * radius
-    
+
     x = starting_point.x  # Initialize x and y BEFORE the loop.  Choose ...
     y = starting_point.y  # ... values that make the FIRST object easy to draw.
 
